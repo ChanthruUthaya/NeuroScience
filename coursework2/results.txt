@@ -1,0 +1,37 @@
+PART1:
+Refac = 0ms
+Window = 10.0ms
+fano = 0.999163046174
+
+Window = 50.0ms
+fano = 1.01082890973
+
+Window = 100.0ms
+fano = 1.01878587744
+
+var coef = 1.0103890913241242
+
+Refac = 5.0ms
+Window = 10.0ms
+fano = 0.750756479078
+
+Window = 50.0ms
+fano = 0.700181880161
+
+Window = 100.0ms
+fano = 0.702503335793
+
+var coef = 0.8320270662144106
+
+PART2
+window = 10.0ms
+fano = 1.11813730077
+
+window = 50.0ms
+fano = 2.92819966379
+
+window = 100.0ms
+fano = 4.10240677757
+
+var coef = 2.008552337063215
+
